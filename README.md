@@ -53,7 +53,7 @@ Open up `sites/index.html`. Using CSS grid for layout, change the page so that..
 
 Visually, the before and after:
 
-- **Before** — <layout-no-css.png>
+- **Before** — [Layout No CSS](layout-no-css.png)
 - **After** — <https://raw.githubusercontent.com/jfarmer/exercises-html-layout-i/master/layout-with-css.png>
 
 You *will* feel like this and that's expected:
